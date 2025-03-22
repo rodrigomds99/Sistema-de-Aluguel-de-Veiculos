@@ -11,7 +11,7 @@ Este é um sistema de aluguel de veículos desenvolvido em Python utilizando a b
 
 ## Requisitos
 
-- Python 3.x
+- Python 3
 - Bibliotecas padrão do Python (Tkinter e SQLite3 já estão incluídas na instalação padrão do Python).
 
 ## Estrutura do Projeto
